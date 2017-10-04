@@ -12,7 +12,7 @@ package proyecto.seguntdo.corte.fase.pkg1;
 public class vidas extends Casilla{
     
     
-    @Override
+    @Override //escribir sobre//
     public void setCasilla(String a){
         super.ValorImpresion ="";
     }

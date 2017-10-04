@@ -22,7 +22,7 @@ public class main {
         Scanner scan= new Scanner(System.in);
        
         char x = 0;
-        System.out.println("HOLA MIGO!!!  BIENVENIDO A ESTA AVENTURA"); 
+        System.out.println("HOLA AMIGO!!!  BIENVENIDO A ESTA AVENTURA"); 
         char[][] mapa;
         System.out.println("Ingrese valor para A");
         int A= scan.nextInt();
